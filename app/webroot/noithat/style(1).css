@@ -1,0 +1,11 @@
+.theme-default #slider {
+    width:711px; /* Make sure your images are the same size */
+    height:336px; /* Make sure your images are the same size */
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}
